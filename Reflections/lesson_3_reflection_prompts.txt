@@ -18,7 +18,7 @@ stored locally?
 
     To help you incase there's a bug in lets say your code at a later time you can easily revert to the last known state to acquire the bug-free version.
 
-How would you collaborate without using Git or GitHub?  
+How would you collaborate without using Git or GitHub? It would be exceedingly stressful and would only be possible if your partner is in your vicinity; otherwise there would be a huge delay in completing a task. 
 What would be easier,
 and what would be harder?
 
